@@ -1,3 +1,5 @@
+[![Open original tutorial](https://www.youtube.com/watch?v=1Vg7bNjJY-0)](https://www.youtube.com/watch?v=1Vg7bNjJY-0)
+
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=TO_BE_UPDATED)
 
 # .NET (Blazor) Portfolio Site with GitHub Codespaces
